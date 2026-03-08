@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Fusion 360-F09D4F?style=flat-square&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sketchup-005F9E?style=flat-square&logo=sketchup&logoColor=white"/>
 
 
 <!-- 백준 Solved.ac 프로필 -->
