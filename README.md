@@ -1,8 +1,11 @@
 <div align=center>
 
 # **Hello, World**
+이것저것 만드는 것을 좋아하는 공돌이입니다.
 
-### ⚙️ Tech Stack 
+
+
+# ⚙️ Tech Stack 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white"/>
