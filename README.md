@@ -25,4 +25,4 @@
 
 
 <!-- 백준 Solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=woojinchris15)](https://solved.ac/woojinchris15)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=woojinchris)](https://solved.ac/woojinchris)
